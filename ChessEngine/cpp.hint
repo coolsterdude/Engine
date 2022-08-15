@@ -1,0 +1,2 @@
+#define CHESSENGINE_API __declspec(dllexport)
+#define CHESSENGINE_API __declspec(dllimport)
